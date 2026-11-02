@@ -1,0 +1,6 @@
+*
+!*/
+!*.lua
+!.gitignore
+!/status/
+!/status/*.json
